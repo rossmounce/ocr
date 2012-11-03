@@ -28,4 +28,9 @@ done
 
 rm *
 cd ..
+
+for i in ${OUTPUT_FILENAME}*.txt; do cat $i >> ${OUTPUT_FILENAME}.txt; echo "[pagebreak]" >> ${OUTPUT_FILENAME}.txt; done
+
+rm ${OUTPUT_FILENAME}-*.txt
+
 rmdir ${TMP_DIR}
