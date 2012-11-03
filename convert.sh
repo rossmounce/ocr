@@ -1,6 +1,7 @@
 #!/bin/bash
 #ocrpdftotext
 # Simplified implementation of http://ubuntuforums.org/showthread.php?t=880471
+# Based on http://fransdejonge.com/2012/04/ocr-text-in-pdf-with-tesseract/
 
 # Might consider doing something with getopts here, see http://wiki.bash-hackers.org/howto/getopts_tutorial
 
