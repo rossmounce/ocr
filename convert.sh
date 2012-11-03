@@ -21,6 +21,7 @@ cp ${@} ${TMP_DIR}
 cd ${TMP_DIR}
 
 for i in `seq 1 $PAGES`; do
+    echo "Converting page ${i}/${PAGES} of ${@}."
     convert -monochrome -density ${DPI} -depth 8 ${@}\[$(($i - 1 ))\] page$i.tif
     tesseract "page${i}.tif" "${OUTPUT_FILENAME}-${i}" -l ${TESS_LANG}
     rm "page${i}.tif"
