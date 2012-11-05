@@ -1,0 +1,38 @@
+I I 12.03.201010:25
+Vypis o provedeni kontroly DS KZACK
+
+Výpis o provedení kontroly datové schránky
+
+Spisová značka:22INS 7990/2009
+
+Identifikace dotazu:13646-3/2010
+
+Datum a čas provedení kontroly:12.03.2010 10:25
+Kontrolu provedl: Boháčová Kateřina
+
+DS nebyla hledána z důvodu nekompletních údajů pro vyhledání:0 adresátů
+DS hledána pro:2 adresátů
+ověřována pouze přístupnost DS: l adresátů
+přístupná DS: 1 adresátů
+
+Adresát: JUDr. Konvičková Adéla, rč. 805819/5255, nar. 19.08.1980, ID: KONVIČKADÉL8058l9
+
+l
+Údaje o schránce: typ DS: ID DS:
+
+nepřístupná DS: O adresátů
+
+nově zjišťována DS pro: 1 adresátů
+
+z toho DS nalezena pro:O adresátů
+
+z toho DS nenalezena prozl adresátů
+Adresát: Adámek Jiří, IČ 67705740, Obch.název:ARTEX 2, ID: ADÁMEK JIŘÍ 4
+
+Dotaz proveden na tyto typy DS:
+
+Konec výpisu fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff fa
+
+Tis KSSEMDS Strana 1 Z 1 AAM112R
+
+[pagebreak]

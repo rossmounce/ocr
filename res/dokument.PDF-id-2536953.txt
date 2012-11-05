@@ -1,0 +1,56 @@
+23.06.2011 10:54
+
+ 
+
+KAKANT
+Vypls o provedeni kontroly datove schranky
+
+Spisová značka:89INS 5393/2011
+
+Identifikace dotazu:30419-6/2011
+
+Datum a čas provedení kontroly:23.06.2011 10:54
+
+Kontrolu provedl: Kantová Kateřina
+
+DS nebyla hledána z důvodu nekompletních údajů pro vyhledání:0 adresátů
+
+DS hledána pro:3 adresátů
+
+ověřována pouze přístupnost DS:3 adresátů
+přístupná DS: 3 adresátů
+Adresát:BESTSPORT akciová společnost, IČ: 19013825, právnická, ID:
+BESTSPORT19013825 1
+Údaje o schránce: typPO ID DS:5mkc45s Stav DS Přístupná
+Název DS firma: BESTSPORT akciová společnost
+IČ: 19013825
+Adresa: K Žižkovu /851, 19093 Praha 9, CZ
+Adresát:JUDr. Urbanová Daniela, nar. 23.05.1968, ins. správce, ID:
+URBANOVDANI685523 l
+Údaje o schránce: typPFO_INssPR ID DS:qwzyhs7 Stav DS Přístupná
+
+Název DS Daniela Urbanová, firma: Daniela Urbanová - Insolvenční správce
+
+IČ:
+Adresa: Revoluční /2, 11000 Praha 1, CZ
+nar. 23.05.1968
+
+Adresát:KOLBY akciová společnost, IČ: 25512919, právnická, ID: KOLBY AKC25512919
+1
+
+Údaje o schránce: typPO ID DS:ks7esxx Stav DS Přístupná
+Název DS firma: KOLBY a.s.
+IČ: 25512919
+Adresa: Česká /51, 69126 Pouzdřany, CZ
+
+nepřístupná DS: O adresátů
+nově zjišťována DS pro: O adresátů
+z toho DS nalezena pro:O adresátů
+
+z toho DS nenalezena pro:O adresátů
+
+Konec výpisu ----------------------------------------------------------------------- --
+
+Tisk CCA Group a.s. Strana 1 z 1 AAM112R
+
+[pagebreak]

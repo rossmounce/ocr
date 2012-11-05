@@ -1,0 +1,270 @@
+ŘIHLÁŠKA POHLEDÁVKY
+
+Dlldí Krajský soud v Ústí nad Labem Sp. zn.: KSUL 70 INS 2621/2008
+
+ 
+
+DLUŽNÍK
+01 Typ: Fyzická osoba Státní příslušnost?  
+Osobní Pří' ení: Jméno:
+ůdaje Titul za ' .: Titul
+Dat. narozeníz“ Rodné číslo:
+o I : Jiné ' .č.:
+Trvalé Obec: P '
+bydliště Ulice:
+Stát:
+
+ 
+
+02 Typ: Právnická osoba
+
+Právní řád založenízi  
+
+Právnická Název/obchfirma: ARTEX, s.r.o.
+
+osoba IC: 46711317 Jiné registLč;
+
+sídlo Obec: Stráž nad Nisou PSČ: 463 03
+Ulice: Kateřinská Č. p.: 589
+Stát: Česká republika
+
+VĚŘITEL
+
+03 Typ: Fyzická osoba
+
+Státní příslušnost?  
+
+Osobní Při' :
+údaje Titul za '
+Dat. narozeníz"
+o I '
+
+Trvalé Obec:
+bydliště Ulice:
+Stát:
+
+04 Typ: Právnická osoba
+
+ 
+
+Jméno:
+
+Titul ..
+Rodné číslo:
+Jine' ' .č. :
+
+Právní řád založení?  
+
+Právnická Název/obchiilma: Severočeská plynárenská, a.s.
+
+osoba IČ: 49903209 Jiné registnč.:
+
+Sídlo Obec: Ústí nad Labem PSČ: 401 17
+Ulice: Klíšská Č. p.: 940
+Stát: Česká republika
+
+05 Korespondenční adresaz" #5 ÚÉWZŽ ?AZTA/Elš /t/JÍÝÍ '/4 ÍVÝÍŠ' 5,79, 79' Žďíí
+
+Korespondenční Obec: Moravská Ostrava PSČ: 70272
+adresa Ulice: Plynámí C. p.: 2748/6
+
+Stát: lČeská republika
+Elektronická adresa: Akreditovaný poskytovatel certifikačních služeb:
+
+l I ł
+
+i vyplní se pouze u zahraničních osob
+
+“_ datum narození se vyplní pokud nebylo přiděleno rodné číslo
+'” vyplní se pouze u dlužníka podnikatele
+
+w vyplňte pokud se liší od sídla či trvalého bydliště
+
+llllllllllllllllłlłlłlllllłllłlłlłlllllłl
+
+[pagebreak]
+   
+
+Pohledávka č. Typ pohledávky:
+Výše jistiny (Kč): I9 203,00 l
+
+06 Důvod vzniku: Věřítel uzavřel s úpadcem dne 25.09.2000 kupní smlouvu o dodávce
+zemního plynu č. 60l6443-l.
+
+07 Další okolnosti: Na základě výše uvedené smlouvy dodával věřitel zemní plyn do odběmého
+místa: Kateřinská 235, 463 03 Stráž nad Nisou.
+
+08 Vykonatelnost: [j pro částku:   dle: I |
+
+09 PŘÍSLUŠENSTVÍ:
+
+Druh: lúrok z prodlení l
+Výše (Kč): [10 167,75 J
+Způsob výpočtu: viz. vložená strana č. 2
+
+Celková výše pohledávky: 19 370,75 1
+
+10 VLASTNOSTI POHLEDÁVKY:
+Způsob podřízení:
+
+Podřízené: D Ano Ne l l
+
+Vyčíslení nepeněžite' pohledávky:
+
+Peněžitá: Ano l: Ne l J
+
+Popis podmínky:
+Podmíněná: I: Ano Ne l |
+. splatná od V částce (Kč)
+Splatná: Ano D Ne 14.5.2006 9 203,00
+Popis způsobu přepočtu Mčna/ kurs
+
+Pohledávka: v Kč :l v cizí měně
+11 Další okolnosti:
+
+Přihláška pohledávky - vložená strana č.
+
+[pagebreak]
+Přihláška pohledávky - vlołžrená strana č. 2,
+Příloha k číslu pole 09 - PRISLUSENSTVI
+
+ 
+
+Na základě kupní smlouvy 0 dodávce zemního plynu č. 6016443-1 ze dne 25.09.2000
+odebíral úpadce zemní plyn do odběmého místa: Kateřinská 235, 463 03 Stráž nad Nisou.
+Jeho odběr mu byl vyfakturován takto:
+
+o za období 01.01.2006 - 20.04.2006 fakturou č. 0.8105272.0l.20060420
+ze dne 27.04.2006, splatnou dne 14.05.2006 snedoplatkem ve výši
+59.11l,00 Kč. Na fakturu 0.8105272.0l.20060420 byly provedeny
+částečné úhrady:
+
+dne 17.08.2006 ve Výši 20.025,50 Kč
+dne 23.08.2006 ve výši 20.033,50 Kč
+dne 10.10.2006 ve výši 9.849,00 Kč
+
+K úhradě zbývá 9.203,00 Kč.
+V souladu s ustanovením čl. IV. Odd.E,l (Majetkové sankce) všeobecných podmínek kupní
+
+smlouvy o dodávce zemního plynu má věřitel nárok na úrok z prodlení z dlužné částky ve
+výši 0,08 % za každý den prodlení. Tento vyčíslujeme ke dni prohlášení takto:
+
+Výpočet úroků z prodlení
+
+částka od do počet dní úrok úrok Kč
+59 111,00 15.5.2008 17.8.2008 95 0,08 4 492,44
+39 085,50 18.8.2008 . 23.8.2008 8 0,08 187,81
+19 052,00 24.8.2008 10.10.2008 48 0,08 731,60
+
+9 203,00 11.10.2006 17.7.2008 848 0,08 4 756,11
+
+celkem: 10 167,75
+
+Úrok z prodlení činí 10.167,75 Kč.
+
+[pagebreak]
+ 
+
+47 Celková výše přihlášených pohledávek (Kč): 19 370,75
+
+48 Celková výše zajištěných pohledávek (Kč):
+
+49 Celková výše nezajištěných pohledávek (Kč): 19 370 75
+
+50 Počet pohledávek: 1
+
+51 Počet vložených stran:
+
+Věřitel prohlašuje, že údaje v přihlášce jsou pravdivé.
+
+SEZNAM PŘÍLOH:
+
+Povinné přílohy:
+
+1. J e-li věřitel právnická osoba - výpis z obchodního rejstříku nebo obdobného registru.
+Kopie smluv, soudních nebo jiných rozhodnutí a dalších listin dokládajících údaje
+uvedené v přihlášce pohledávky.
+
+3. J e-li věřitel zastoupen na základě plné moci- plná moc.
+
+S2 Seznam příloh:
+
+1. kopie výpisu z OR společnoti Severočeská plynárenská a.s.
+
+2. kopie plné moci
+
+3. kopie Kupní smlouvy o dodávce zemního plynu č. 6016443-1 ze dne 25.09.2000 včetně všeobecných
+podmínek kupní smlouvy o dodávce zemního plynu
+
+4. kopie faktury č. 0.8l05272.0l .20060420
+
+[pagebreak]
+V Ostravě dne 24.7.2008
+podpisem swrzuje věřitel Jiná osoba X
+54
+Llméno [Kamil I Přľnení: IStypa, Mgr. w
+
+ 
+
+ 
+
+Při' ení: Jméno:
+, T'tul ' ' l
+55 Jina osoba - l dlšfě gn?
+fyzická osoba Ulice: '
+Stát:
+Název/obchñrma: AK Cestr & Partners, Mgr. Kamil Stypa, pobočka Ostrava
+56 Jiná osoba- IC.: 71334629 Jiné registr. č.:
+právnická Obec: Ostrava PSC: 70272
+osoba Ulice: Plynámí C. p.: 2748/6
+Stát: Česká republika
+Podpis:
+
+ 
+
+V případě nedostatku místa použijte volný papír, který omačte číslem pole a vložte jej k přihlášce jako přílohu.
+
+[pagebreak]
+\„,\..
+
+E» AFM MNĚ. QNxŠRko/š Nm sąău
+mm N\ mxąm Š Šsäçăăxą
+
+lłůăkľlkľ
+
+AąAAuALAJ I
+
+L
+vvwimmvl
+
+*ąląąąąąql
+
+uwmxv Qm×\\× ?Š x Šxx k NSBQWN
+
+s wxwwmšwmkmą
+
+   
+
+m .  .. M muüäwk w„  u „mm
+„ ., ťăuľhůhäm FF n„.w~m„ má.
+
+„ \ mxxam ?samu
+
+É;
+
+     
+
+  
+
+m  _„ w m
+u m>m=m0 8 N.
+
+mžĚmO wxmžäow/ñm
+o
+
+młwămg wMm>muoŽ-m>
+§30
+
+mmmzb
+
+[pagebreak]

@@ -1,0 +1,81 @@
+Identifikátor zprávy v ISDS:
+
+Identifikátor zprávy v eVýpravně:
+
+Spisová značka:
+Identifikace písemnosti:
+
+Doručované písemnosti:
+
+Adresát:
+
+Příjemce dle DS:
+
+Způsob doručení:
+Stav doručení:
+
+z. 300/2008 Sb., §20, 1/e:
+
+Odesláno do DS:
+Dodáno do DS:
+
+Doručeno:
+
+Přehled událostí:
+
+Datum a čas kontroly
+doručení:
+
+Poslední kontrola v
+
+KONEC VÝPISU
+
+Potvrzení o dodání a doručení do datové schránky
+45280438
+
+e6cea99f-05e4-4f8b-8677-9366ea4b31 cc
+
+89|NS 5393/2011
+
+-B-1 usn.+přílohy lh. 23/5, tisková skupina 5011-5/2011
+
+89 INS 5393 2011 B 1.doc 2011/05/0314:08:59
+
+JUDr. Urbanová Daniela, nar. 23.05.1968, ins. správce, ID: URBANOVDANl685523 1
+Typ DS: PFO_INSSPR
+
+Daniela Urbanová - Daniela Urbanová - Insolvenční správce, Revoluční 2, 11000 Praha 1, CZ
+ID DS: qwzyhs7
+
+Do vlastních rukou
+
+Doručeno
+
+Doručenka byla opatřena elektronickou značkou. lntegrita je neporušena.
+
+03.05.2011 15:45:45
+03.05.2011 15:45:46
+
+03.05.2011 19:08:39
+
+Zprávu vypravil: Kateřina Kantová
+
+03.05.2011 15:45:45 EVO: Datová zpráva byla podána.
+
+03.05.2011 19:08:39 EV11: Přihlásila se oprávněná osoba ve smyslu §8, odst. 1 až 4 zákona
+č.300/2008 Sb. v platném znění. Datová zpráva je nyní doručena. Případné
+dřívější datum doručení fikcí nebo doručení dodáním do schránky orgánu
+
+veřejné moci není dotčeno.
+
+EV5: Datová zpráva byla dodána do datové schránky příjemce. Je-li příjemcem
+datové zprávy orgán veřejné moci vystupující v postavení orgánu veřejné moci,
+byla datová zpráva tímto okamžikem doručena.
+
+Kontrolu provedl:
+
+03.05.2011 15:45:46
+
+20.05.2011 12:42
+
+[pagebreak]

@@ -1,0 +1,76 @@
+ 
+
+Vypls o provedeni kontroly datove schranky
+
+Spisová značka:54INS 2133/2008
+Identifikace dotazu:2418-7/2011
+
+Datum a čas provedení kontroly:25.07.2011 07:51
+Kontrolu provedl: Mašková Františka
+
+25.07.2011 07:51
+FMASK
+
+DS nebyla hledána z důvodu nekompletních údajů pro vyhledání:0 adresátů
+
+DS hledána pro:3 adresátů
+
+ověřována pouze přístupnost DS:3 adresátů
+
+přístupná DS:2 adresátů
+
+IČ: 61775801, právnická
+Údaje o schránce: typzpo
+Název DS firma: ARTEX INTERNATIONAL CZ s. r. o.
+
+IČ: 61775801
+Adresa: Ú porcelánky /1106, 35735 Chodov, CZ
+
+Adresát:Krajský soud Plzeň, obchodní
+rejstřík, IČ: 00215694,
+právnická
+
+Údaje o schránce: typ:oVM
+
+Název DS firma: Krajský soud V Plzni
+IČ: 00215694
+
+Adresa: Veleslavínova 40, 30617 Plzeň 3, CZ
+
+Adresát:ARTEX INTERNATIONAL CZ, s.r.o., Typľprávnická ID:ARTEX INTERN
+
+ID DS:Va3ff5q Stav DS Přístupná
+
+Typľprávnická ID:KRAJSKÝ SOUD PLZE 1
+
+ID DS:yaraba4 Stav DS Přístupná
+
+nepřístupná DS:1 adresátů
+
+Adresát: JUDr. Kalamár Josef, nar. Typľins.
+09.07.1956, ins. správce SpráVCe
+Údaje o schránce: typ:PFO_INSSPR
+
+IČ:
+Adresa: Imrychova 11/844, 14300 Praha 4, CZ
+nar. 09.07.1956
+
+ID:KALAMÁRJOSE560709 1
+
+ID DS:qnmx38q Stav DS:Nepřístupná
+
+Název DS:Josef Kalamár, firma: Josef Kalamár - Insolvenční správce
+
+nově zjišťována DS pro:0 adresátů
+
+z toho DS nalezena pro:0 adresátů
+
+z toho DS nenalezena pro:O adresátů
+
+Konec výpisu --------------------------------------------------------- --
+
+Tisk KSZPCPM Strana 1 z 1
+
+AAMIIZR
+
+[pagebreak]

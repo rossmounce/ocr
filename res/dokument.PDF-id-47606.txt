@@ -1,0 +1,266 @@
+  HLEDÁVKY
+1111111111111!||11||1||11|||1   v    
+
+Il
+
+11111111 
+
+Davle: ZGOLZOOE 08:34
+
+popu Itran-Ipríloh: sro Státní příslušnosti 
+
+Osobní t Při' : Jméno:
+údaje Tím za ' : Titul
+Dat. ' R
+o I V: Jiné
+Trvalé Obec:
+bydliště ' -
+
+Stát: o
+
+ 
+
+02 Typ: Právnická osoba PJrávní řád založenízí  
+
+Právnická ' ARTEX INTERNATIONAL cz, s.r.0.
+-  61775801 *Jiné o
+
+  
+  
+
+" Stát:
+
+ 
+
+VĚŘITEL
+
+03 Typ: Fyzická osoba Státní příslušnosti  
+
+o údäjgą _ .. _ .
+o  ' narození“ o _ 'číslozt 
+
+Twąléy r „ .
+
+bydliště :
+_ V  „ Stát:
+
+04 Typ: Právnická osoba Právní řád založení?  
+
+Í ñlma: zdravotní íšťovna
+
+41197518 Jínér
+Praha 3
+
+ 
+
+ 
+
+Stát:
+
+05 Korespondenční adresaz”
+
+Korespondenční" Obec;  Karlovy Vary PSC: n n f o 36021
+adresa t  ' Ellíce: n Dr. Janatky Č,Ap.; a  V 2
+
+o ti-stát: ČR
+.Elektronická adresa: Alqeditovaný poskytovatel certífkačrúch služeb:
+
+.I   Il   l
+
+ vyplní se pouze u zahraničních osob
+
+ datum narození se vyplní pokud nebylo ,přiděleno rodné číslo
+t“ vyplní se pouze u dlužníka podnikatele
+
+*V vyplňte pokud se. liší od sídla či trvalého bydliště
+
+[pagebreak]
+Pohledávka č. í Typ pohledávky:
+*Výše jistiny (Kč): 1126 714,00 i
+
+06 Důvod vzniku: vykonatelný platební výměr č, 4140201210, ze dne 29. 07; 2002 dlužné
+pojistné dle § 15 zák. č. 592/1992 Sbe„)
+
+07 Další okolnosti: platební výměr vydán na základě rozhodovací činnosti věřitele dle ust. § 53
+zák.č.48/1997 Sb. V plzn.
+
+10s Vykonatelnost: E pro částku: 126 714,00 dle: IPV č. 4140201210 í |
+
+V 09 PŘÍSLUŠENSTVÍ:
+
+Druh: l í _ í I
+Výše (Kč): |
+Způsob výpočtu:
+
+Celková výše pohledávky: 12671400 _ 1
+
+10 VLASTNOSTI .POHLEDÁVKYIe
+Způsob podřízení::
+
+Podřízená: I: Ano Ne | í [
+
+Vyčíslení nepeněžité pohledávky:
+
+Peněžitá: A110 Ů Ne f _ |
+
+Popis podłfłíľłľíšř:
+Podmíněná: C] Ano Ne I }
+Ý Splatnáod = .   “Včástce (Kč) ~ :
+Splatná: 10.110 [j Ne 17.8.2002 126 714,013;
+Popis způsobu přepečtu Měna/ kurs
+
+Pohledávka:  V Kč Z! v cizí měně
+11 Další okolnosti:
+
+Přihláška pohledávky- vložená strana č. 4
+
+[pagebreak]
+Pohledávka č. 2 Typ pohledávky:
+Výše jistiny (Kč): 13s 319,00 1
+
+06 Důvod vzniku: vykonatelný platební výměr č. 214021209, ze dne 219. 07. 2002 dlužné
+pojistné dle  18 zák. č. 592/1992 Sb.)
+
+07 Další okolností: platební výměr vydán na základě rozhodovací činnosti věřitele dle ust.  153
+zák. č. 48/1997 Sb. v9 plzn.
+
+08 Vykonatelnost: pro částku: I38319,00 l dle: EV č. 2140201209 í I
+09 PŘÍSLUŠENSTVÍ:
+Druh: I 1
+Výše (Kč): l
+Způsob výpočtu:
+Celková výše pohledávky: 381319410 I
+
+10 VLASTNOSTI ĚPOHLEDÁVKY:
+Způsob podřízení:
+
+Podřízená: 1:1 A110 Ne l 
+
+Vyčíslení nepeněžité pohledávky:
+
+Penľěžitá: Ano E Ne | 9 Í
+
+Popis podmínky: í
+Podmíněná: D Ano Ne l l
+M splatná od V částce (Kč)
+splatná: E A110 Ů Ne 3.9.2002 38 319,00.
+Popis způsobu přepočtu H Měna! kurs
+
+Pohledávka: v Kč Ů v cizí měně L ] I
+11 Další okolnosti:
+
+Přihláška pohledávky -~ vložená strana č.
+
+[pagebreak]
+Pohledávka č. Typ ponnaaávky:
+Výšejístiny (Kč): [ga 286,00 l
+06 Důvod vzniku: vyúčtování pojistného na veřejné zdravotní pojištění - nedoplatek penále
+
+07 Další okolnosti:
+
+08 Vykonatelnost: pro částku: 238 286,00 dle: Ívyúčtování penále l
+
+09 PŘÍSLUŠENSTVÍ:
+
+Drułnl l p -I l
+
+Výše (Kč): l
+Způsob výpočtu:
+Celková výše pohledávky: ga 286,00   l
+
+10 VLASTNOSTI POHLEDÁVKY:
+
+Podřízená: D Ano X Ne l
+Vyčíslení nepeněžité pohledávky:
+
+Peněžitá: Ano [j Ne l 7
+
+Způsob podřízení:
+
+__l
+
+Popis podmínky:
+Podmíněná: D Ano Ne ]
+splatná od V částce (Kč)
+Splatná: A110 m Ne 23s 286,00
+Popis způsobu přepočtu Měna/ kurs ą
+Pohledávka: v Kč [j v cizí měně | y g
+
+11 Další okolnosti:
+Bod IO - splatnost: pohledávka je splatná průběžně, § 19 zákona č. 592/ 1992 Sb.
+
+Přihláškal pohledávky - vložená strana č.
+
+[pagebreak]
+47 Celková výše přihlášených pohledávek (Kč): 403 219,00
+
+48 Celková výše zajištěných pohledávek (Kč):
+
+49 Celková výše nezajištěných pohledávek (Kč): 403 219 00
+
+50 Počet pohledávek: 3
+
+51 Počet vložených stran: 3
+
+Věňłeł perohlašuie, že údaíe v přihlášce jsou pravdivé.
+
+SEZNAM PŘÍLOH:
+Povinné přílohy:
+l. J e-Ii věřitel právnická osoba - výpis z obchodního rejstříku nebo obdobného registru.
+. Kopie smluv, soudních nebo jiných rozhodnutí ai dalších listin dokládajícíoh údaje
+uvedené v přihlášce pohledávky.
+
+3. Je-li věřitel zastoupen na. základě plné moci - plná. Inoo.
+
+52 Seznam příloh:
+
+* veřejné zdravotní pojištění,
+
+PV 4140201210, č. 2 PV 2140201209, č. 3 vyúčtování pojistného .me
+
+Zde uvést očíslované přílohy - č. 1
+č. 4 Pověření ze dne 5. 1.2 2007
+
+[pagebreak]
+53
+
+V Karlových Varech dne 21.4.2008 '
+Pgdpisçm styrzuje Věňtel X Jiná osoba
+54
+I Jméno !Marcela ł Příjmení: 'Modesová
+
+Při'
+
+55 Jiná osoba -
+
+ 
+
+; :fyzická osoba
+i .Stát
+Název/obsah.
+56 Jiná osoba- i
+právnická Obec:
+osoba? ' g
+Stát:
+Podpis: 
+
+ 
+
+/ r
+KW“ 'b
+
+VĚĚÉÍŠÉHIZ” Da". ianatjíąy 2
+zprvu/onu
+r Ěggxšgov*** 2-50 2! ăáazłavązvsa:
+( REPUBHKY „
+
+Z'\
+
+-----_ -" / \
+
+Uxemní pracoviště 
+Karlovy van'
+
+V případě nedostatku místa použijte volný papír, který označte číslem pole a vložte jej k přihlášce jako přílohu.
+
+[pagebreak]

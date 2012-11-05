@@ -1,0 +1,30 @@
+1404201115D4
+KAKANT
+
+ 
+
+Výpis o provedení kontroly datové schránky
+
+Spisová značka:89INS 5393/2011
+Identifikace dotazu:19912-4/2011
+
+Datum a čas provedení kontroly:14.04.2011 15:04
+Kontrolu provedl: Kantová Kateřina
+
+DS nebyla hledána z důvodu nekompletních údajů pro vyhledání:0 adresátů
+DS hledána pro:l adresátů
+ověřována pouze přístupnost DS:l adresátů
+přístupná DS: 1 adresátů
+Adresát:SAZKA, a.s., IČ: 47116307, právnická, ID: SAZKA, A.47ll6307 1
+Údaje o schránce: typ DS PO ID DS:8phcg92
+nepřístupná DS: O adresátů
+nově zjišťována DS pro: O adresátů
+z toho DS nalezena pro:O adresátů
+
+z toho DS nenalezena pro:O adresátů
+
+Konec výpisu ----------------------------------------------------------------------- --
+
+Tisk CCA Group a.s, Strana 1 z 1 AAM112R
+
+[pagebreak]

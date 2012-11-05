@@ -1,0 +1,75 @@
+Identifikátor zprávy v ISDS:
+
+Identifikátor zprávy v eVýpravně:
+
+Spisová značka:
+Identifikace písemnosti:
+
+Doručované písemnosti:
+
+Adresát:
+
+Příjemce dle DS:
+
+Způsob doručení:
+Stav doručení:
+
+z. 300/2008 Sb., §20, 1/e:
+
+Odesláno do DS:
+Dodáno do DS:
+
+Doručeno:
+
+Přehled událostí:
+
+Datum a čas kontroly
+doručení:
+
+Poslední kontrola v
+
+KONEC VÝPISU
+
+Potvrzení o dodání a doručení do datové schránky
+57350936
+
+17bcde7f-6916-4216-9a07-104651d47b3d
+
+38lNS 2668/2010
+-B29 -usn. o zruš.k., tisková skupina 7801-9/2011
+
+B29 - usn. zruš. k.
+
+ARTEX Trade International, s.r.o., IČ: 25871595, právnická, ID: ARTEX TRA25871595 1
+Typ DS: PO
+
+ARTEX Trade International, s.r.o., Mariánské náměstí 4/12, 73991 Jablunkov, Česká republika
+ID DS: yv6nhns
+
+Do vlastních rukou
+Doručeno
+
+Doručenka byla opatřena elektronickou značkou. lntegrita je neporušena.
+
+06.09.2011 13:43:18
+06.09.2011 13:43:18
+
+06.09.2011 18:51:13
+
+Zprávu vypravil: Gabriela Skupinová
+
+06.09.2011 18:51:13 EV11: Přihlásila se oprávněná osoba ve smyslu §8, odst. 1 až 4 zákona
+č.300/2008 Sb. v platném znění. Datová zpráva je nyní doručena. Případné
+dřívější datum doručení fikcí nebo doručení dodáním do schránky orgánu
+
+veřejné moci není dotčeno.
+
+06.09.2011 13:43:17 EVO: Datová zpráva byla podána.
+
+06.09.2011 13:43:18 EV5: Datová zpráva byla dodána do datové schránky příjemce. Je-li příjemcem
+datové zprávy orgán veřejné moci vystupující v postavení orgánu veřejné moci,
+byla datová zpráva tímto okamžikem doručena.
+
+01092011 11:16 KOľIÍľOIU provedl:
+
+[pagebreak]

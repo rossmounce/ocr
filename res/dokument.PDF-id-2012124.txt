@@ -1,0 +1,49 @@
+Potvrzení o dodání a doručení do datové schránky
+
+Identifikátor zprávy v ISDS: 46406371
+
+Identifikátor zprávy v eVýpravně: bdb694c3-b63c-489f-8242-b8ef26f8717b
+Spisová značka: 89lNS 5393/2011
+
+Identifikace písemnosti: -B-4 přípis, tisková skupina 20418-5/2011
+
+Doručované písemnosti: MSPH 89 INS 5393-2011-B-4 2011/05/13 10:59:35
+
+Adresát: BESTSPORT akciová společnost, IČ: 19013825, právnická, ID: BESTSPORT19013825 1
+Typ DS: PO
+Příjemce dle DS: BESTSPORT akciová společnost, K Žižkovu 851, 19093 Praha 9, Česká republika
+
+ID DS: 5mkc45s
+
+Způsob doručení:
+
+Stav doručení: Doručeno
+
+z. 300/2008 Sb., §20, 1/e: Doručenka byla opatřena elektronickou značkou. lntegrita je neporušena.
+
+Odesláno do DS: 13.05.2011 14:01:36 Zprávu vypravil: Kateřina Kantová
+
+Dodáno do DS: 13.05.2011 14:01:37
+
+Doručeno: 13.05.2011 14:06:52
+
+Přehled událostí: 13.05.2011 14:06:52 EV11: Přihlásila se oprávněná osoba ve smyslu §8, odst. 1 až 4 zákona
+
+č.300/2008 Sb. v platném znění. Datová zpráva je nyní doručena. Případné
+dřívější datum doručení fikcí nebo doručení dodáním do schránky orgánu
+veřejné moci není dotčeno.
+
+13.05.2011 14:01:37 EV5: Datová zpráva byla dodána do datové schránky příjemce. Je-li příjemcem
+datové zprávy orgán veřejné moci vystupující v postavení orgánu veřejné moci,
+byla datová zpráva tímto okamžikem doručena.
+
+13.05.2011 14:01:36 EVO: Datová zpráva byla podána.
+
+Datum a čas kontroly 20352011 12:43 Kontrom provedu
+doručení:
+
+Poslední kontrola v
+
+KONEC VÝPISU
+
+[pagebreak]

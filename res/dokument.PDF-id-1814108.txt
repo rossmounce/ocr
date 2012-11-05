@@ -1,0 +1,37 @@
+I I 15.07.2010 07:28
+Vypis o provedeni kontroly DS JSTRU
+
+Výpis o provedení kontroly datové schránky
+
+Spisová značka:38INS 2668/2010
+
+Identifikace dotazu:9508-7/2010
+
+Datum a čas provedení kontroly:15.07.2010 07:28
+Kontrolu provedl: Struminská Jana
+
+DS nebyla hledána z důvodu nekompletních údajů pro vyhledání:0 adresátů
+DS hledána pro:3 adresátů
+ověřována pouze přístupnost DS: 2 adresátů
+přístupná DS: 2 adresátů
+
+Adresát:ARTEX Trade International, s.r.o., IČ 25871595, právnická, ID: ARTEX
+
+/ TRA2587l595 1
+Udaje 0 schránce: typ DS:PO ID DS:yv6nhns
+
+Adresát:Mgr. Budínová Eva, ins. správce, ID: BUDÍNOVEVA 745805 1
+Údaje 0 schránce: typ DS:PFO_INSSPR ID DS:9w3xt8g
+nepřístupná DS: O adresátů
+nově zjišťována DS pro: 1 adresátů
+z toho DS nalezena pro:O adresátů
+z toho DS nenalezena prozl adresátů
+
+Adresát: JUDr. Krčma Vladimír, Obch.název:Advokát, fyzická, ID: KRČMA__VLAD______ 4
+Dotaz proveden na tyto typy DS:FO
+
+Konec výpisu ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff ee
+
+Tis KSSEMDS Strana 1 Z 1 AAM112R
+
+[pagebreak]

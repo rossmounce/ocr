@@ -1,0 +1,77 @@
+Identifikátor zprávy v ISDS:
+
+Identifikátor zprávy v eVýpravně:
+
+Spisová značka:
+Identifikace písemnosti:
+
+Doručované písemnosti:
+
+Adresát:
+
+Příjemce dle DS:
+
+Způsob doručení:
+Stav doručení:
+
+z. 300/2008 Sb., §20, 1/e:
+
+Odesláno do DS:
+Dodáno do DS:
+
+Doručeno:
+
+Přehled událostí:
+
+Datum a čas kontroly
+doručení:
+
+Poslední kontrola v
+
+KONEC VÝPISU
+
+Potvrzení o dodání a doručení do datové schránky
+62840581
+
+4669ea63-5a3f-423f-8358-547bc6642c59
+
+22lNS 7990/2009
+usnesení-B41, tisková skupina 41388-10/2011
+
+IVO 2011/10/25 09:21:42
+
+JUDr. Konvičková Adéla, nar. 19.08.1980, ins. správce, ID: KONVlČKADÉL805819 1
+Typ DS: PFO_INSSPR
+
+Adéla Konvičková - Adéla Konvičková - Insolvenční správce, Masná 10, 70200 Ostrava-Moravská
+Ostrava, CZ
+
+ID DS: fugx6z4
+
+Doručeno
+
+Doručenka byla opatřena elektronickou značkou. lntegrita je neporušena.
+26.10.2011 14:22:25
+26.10.2011 14:22:26
+26.10.2011 17:38:44
+
+Zprávu vypravil: Kateřina Boháčová
+
+26.10.2011 14:22:26 EV5: Datová zpráva byla dodána do datové schránky příjemce. Je-li příjemcem
+datové zprávy orgán veřejné moci vystupující v postavení orgánu veřejné moci,
+byla datová zpráva tímto okamžikem doručena.
+
+EV11: Přihlásila se oprávněná osoba ve smyslu §8, odst. 1 až 4 zákona
+č.300/2008 Sb. v platném znění. Datová zpráva je nyní doručena. Případné
+dřívější datum doručení fikcí nebo doručení dodáním do schránky orgánu
+veřejné moci není dotčeno.
+
+EVO: Datová zpráva byla podána.
+
+26.10.2011 17:38:44
+
+26.10.2011 14:22:25
+
+02.11.2011 10:38 Kontrolu provedl: Boháčová Kateřina
+
+[pagebreak]

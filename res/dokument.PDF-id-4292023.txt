@@ -1,0 +1,79 @@
+Identifikátor zprávy v ISDS:
+
+Identifikátor zprávy v eVýpravně:
+
+Spisová značka:
+Identifikace písemnosti:
+
+Doručované písemnosti:
+
+Adresát:
+
+Příjemce dle DS:
+
+Způsob doručení:
+Stav doručení:
+
+z. 300/2008 Sb., §20, 1le:
+
+Odesláno do DS:
+Dodáno do DS:
+
+Doručeno:
+
+Přehled událostí:
+
+Datum a čas kontroly
+doručení:
+
+Poslední kontrola v
+
+KONEC VÝPISU
+
+Potvrzení o dodání a doručení do datové schránky
+82307476
+
+f30fefcd-f4a2-4bfa-8438-d19c1 1272ceb
+
+89INS 5393/2011
+-B-109 předkládací zpráva, tisková skupina 29199-4/2012
+
+OSR0150 2012/04/19 14:56:25
+
+Vrchní soud v Praze, IČ: 00215651, organizace resortu, ID: VSPHAAB
+Typ DS: OVM
+
+Vrchní soud v Praze, náměstí Hrdinů 1300/11, 14000 Praha, CZ
+
+ID DS: 3fvabbh
+
+Do vlastních rukou
+
+Doručeno
+
+Doručenka byla opatřena elektronickou značkou. lntegrita je neporušena.
+
+19.04.2012 16:09:45
+19.04.2012 16:09:46
+
+19.04.2012 16:09:46
+
+Zprávu vypravil: Kateřina Kantová
+
+19.04.2012 16:09:45 EVO: Datová zpráva byla podána.
+
+19.04.2012 16:09:46 EV5: Datová zpráva byla dodána do datové schránky příjemce. Je-li příjemcem
+datové zprávy orgán veřejné moci vystupující v postavení orgánu veřejné moci,
+byla datová zpráva tímto okamžikem doručena.
+
+19.04.2012 16:19:00 EV12: Přihlásila se pověřená osoba s právem přístupu ke zprávě ve smyslu §8,
+odst. 6 zákona č.300/2008 Sb. v platném znění. Datová zpráva je nyní doručena.
+Případné dřívější datum doručení fikcí nebo doručení dodáním do schránky
+
+orgánu veřejné moci není dotčeno.
+
+06.06.2012 12:07 Kontrolu provedl: Kantová Kateřina
+
+20.04.2012 03:17
+
+[pagebreak]

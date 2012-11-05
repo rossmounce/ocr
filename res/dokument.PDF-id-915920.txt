@@ -1,0 +1,29 @@
+I _ I 01.04.201012:17
+VypIs o provedeni kontroly DS KZACK
+
+Výpis o provedení kontroly datové schránky
+
+Spisová značka:22INS 7990/2009
+
+Identifikace dotazu:1089-4/2010
+
+Datum a čas provedení kontroly:01.04.2010 12:17
+Kontrolu provedl: Boháčová Kateřina
+
+DS nebyla hledána z důvodu nekompletních údajů pro vyhledání:0 adresátů
+DS hledána prozl adresátů
+ověřována pouze přístupnost DS: l adresátů
+přístupná DS: 1 adresátů
+Adresát: JUDr. Konvičková Adéla, ID: KONVIČKADÉL805819 1
+Údaje o schránce: typ DS: ID DS:
+nepřístupná DS: O adresátů
+nově zjišťována DS pro: O adresátů
+z toho DS nalezena pro:O adresátů
+
+z toho DS nenalezena pro:O adresátů
+
+Konec výpisu aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aa
+
+Tis KSSEMDS Strana 1 Z 1 AAM112R
+
+[pagebreak]
