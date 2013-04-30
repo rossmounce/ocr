@@ -5,7 +5,7 @@
 
 # Might consider doing something with getopts here, see http://wiki.bash-hackers.org/howto/getopts_tutorial
 
-DPI=600
+DPI=300
 TESS_LANG=eng
 #eng
 
